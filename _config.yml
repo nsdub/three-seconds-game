@@ -1,0 +1,17 @@
+# Store policy site for 3 Seconds, built by GitHub Pages (Jekyll).
+# Every page reads these values; change them here, never in the pages.
+title: 3 Seconds
+description: Tap to start, tap to stop on 3.00.
+
+# Must be filled before publishing: the person or company the stores list
+# as the developer, and the address that answers privacy and support mail.
+publisher: "Nathaniel Sokoll-Ward"
+contact_email: "threesecondsgame@duck.com"
+
+# Date the policy takes effect. Set it to the date the accounts release
+# reaches the stores; until then the app keeps everything on the phone.
+effective_date: "15 October 2026"
+
+markdown: kramdown
+exclude:
+  - README.md
