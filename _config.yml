@@ -10,7 +10,7 @@ contact_email: "threesecondsgame@duck.com"
 
 # Date the policy takes effect. Set it to the date the accounts release
 # reaches the stores; until then the app keeps everything on the phone.
-effective_date: "15 October 2026"
+effective_date: "19 October 2026"
 
 markdown: kramdown
 exclude:

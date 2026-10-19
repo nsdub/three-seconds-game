@@ -9,15 +9,15 @@ permalink: /delete-account/
 ## In the app
 
 1. Open {{ site.title }}.
-2. Swipe up to open the menu.
-3. Tap **Account**.
-4. Tap **Delete account** and confirm.
+2. Swipe up from the bottom to open the menu.
+3. Tap the gear to open **Settings**.
+4. Tap **Delete my data** and confirm.
 
 Your account and its data are deleted from our servers at once. The app then clears your history, settings and saved login from the phone and starts over as a fresh install.
 
 ## Without the app
 
-Email <a href="mailto:{{ site.contact_email }}?subject=Delete%20my%203%20Seconds%20account">{{ site.contact_email }}</a> with the subject "Delete my 3 Seconds account". Include your handle, as shown in the app's menu. If you signed in with Apple or Google, also include the email address on that account. We delete the account within 30 days and email you when it's done.
+Email <a href="mailto:{{ site.contact_email }}?subject=Delete%20my%203%20Seconds%20account">{{ site.contact_email }}</a> with the subject "Delete my 3 Seconds account". Include your handle, as shown in Settings under Account. If you signed in with Apple or Google, also include the email address on that account. We delete the account within 30 days and email you when it's done.
 
 ## What is deleted
 

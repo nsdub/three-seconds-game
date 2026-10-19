@@ -14,7 +14,7 @@ permalink: /privacy/
 
 - No ads, no analytics, no tracking, and no third-party SDKs that collect data.
 - We never sell your data or share it for advertising.
-- Your game history stays on your phone. Once the app has an internet connection, it also syncs to an account so you can get it back after a reinstall, and so that leaderboards can be added later.
+- Your game history stays on your phone. Once the app has an internet connection, it also syncs to an account so you can get it back after a reinstall, and so that it can count on the leaderboards.
 - You don't need an email address or a password. Signing in with Apple or Google is optional.
 - You can delete your account and all of its data from inside the app at any time.
 
@@ -28,17 +28,21 @@ For every attempt, including cancelled ones:
 - a random device ID the app generates when it is installed;
 - a sequence number;
 - the time of the attempt in UTC and your phone's timezone offset at that moment;
-- the mode (visible or blind);
-- the measured time between your two taps;
+- the mode (Easy or Hard);
+- the measured time between your two taps, in milliseconds;
 - whether the attempt was cancelled, and why;
 - whether it was made through a screen reader.
 
-We use these to keep your history and stats, to restore them on a new install, and, once leaderboards exist, to rank results. Attempts made through a screen reader are kept with your history but excluded from rankings.
+We use these to keep your history and stats, to restore them on a new install, to rank results on the leaderboards, and to tell you how your day compares with other players (for example "better than 82% of players today", which is worked out from everyone's results and never names anyone). Attempts made through a screen reader are kept with your history but excluded from rankings.
+
+### Badges
+
+Which badges you have earned, in which mode, and when. We use these to show how rare each badge is (the share of players who hold it). Nobody else sees which badges you hold.
 
 ### Account
 
 - A random user ID, created the first time the app syncs.
-- Your handle, which the app generates (for example `quiet-heron-482`) and you can change. Your handle is public: it may be shown to other players next to your results.
+- Your handle, which the app generates (for example `quiet-heron-482`) and you can change. Your handle is public: the leaderboards show it to other players next to your number of hits.
 - If you sign in with Apple or Google: the account identifier that service gives us and, if the service shares one, your email address. Apple lets you hide your real address behind a relay address. We use the email only to identify your account and to reply if you contact us. We never send marketing.
 - If you sign in with Apple: a token Apple issues to us, kept only so that we can revoke your Apple sign-in when you delete your account, as Apple requires.
 
@@ -48,7 +52,7 @@ Our hosting provider records the IP address and basic details of each request (t
 
 ### What stays on your phone
 
-Settings (sound, music, mode), badges and milestones are stored only on your phone. Your login session is stored in your phone's secure storage: the iOS Keychain, or Google's Block Store on Android. That is how the app gets your account back after a reinstall. On Android, Block Store can include it in your Google backup, end-to-end encrypted, so the account also moves to a new phone that you restore from that backup.
+Settings (sound, music, vibration, mode) and milestones are stored only on your phone. Your login session is stored in your phone's secure storage: the iOS Keychain, or Google's Block Store on Android. That is how the app gets your account back after a reinstall. On Android, Block Store can include it in your Google backup, end-to-end encrypted, so the account also moves to a new phone that you restore from that backup.
 
 ### What we do not collect
 
@@ -87,7 +91,7 @@ Data travels to and from our servers over encrypted connections (TLS). The app c
 
 ## Changes
 
-We will update this page, and the date at the top, before changing what the app collects. That includes adding leaderboards that show results by country. Significant changes will also be announced in the app.
+We will update this page, and the date at the top, before changing what the app collects. Significant changes will also be announced in the app.
 
 ## Contact
 

@@ -15,21 +15,21 @@ Tap anywhere to start the stopwatch. Tap again to stop it. Stop it on exactly 3.
 - **Visible:** the time counts up in front of you.
 - **Blind:** the digits disappear until you stop.
 
-Swipe sideways to switch modes. Swipe up for the menu, your stats, badges, and the sound and music switches.
+Each day has one goal per mode: hit 3.00 once, in as few tries as you can. After the day's hit, free play is open until midnight. Swipe up from the bottom for the menu: the mode, your days, stats and badges, the leaderboards (trophy) and Settings (gear). Sound, music and vibration switches are in Settings.
 
 ## Questions
 
 ### Do I need an account?
 
-No. The app creates an anonymous account the first time it syncs, with a generated handle you can change from the menu. Signing in with Apple or Google is optional. It's the most reliable way to keep your history if you change phones.
+No. The app creates an anonymous account the first time it syncs, with a generated handle you can change in Settings, under Account. Signing in with Apple or Google is optional. It's the most reliable way to keep your history if you change phones.
 
 ### I reinstalled the app. Where is my history?
 
-On most phones the app signs you back in by itself and downloads your history. If it doesn't, and you had signed in with Apple or Google, sign in with the same account from the menu. If you never signed in, a reinstall can't always recover the account. Email us your old handle and we'll help.
+On most phones the app signs you back in by itself and downloads your history. If it doesn't, and you had signed in with Apple or Google, sign in with the same account in Settings, under Account. If you never signed in, a reinstall can't always recover the account. Email us your old handle and we'll help.
 
 ### Can I change my handle?
 
-Yes, once every 7 days, from the menu. Handles are 3 to 16 letters, numbers or underscores, and must not already be taken.
+Yes, once every 7 days, in Settings under Account. Handles are 3 to 16 letters, numbers or underscores, and must not already be taken.
 
 ### Why is the timer different from my other stopwatch?
 
